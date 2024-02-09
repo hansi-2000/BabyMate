@@ -1,6 +1,6 @@
 # BabyMate
 <h1 align="center">Hi 👋, I'm Hansika Duviduni</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanks</h3>
+<h3 align="center">This is my Computer Engineerng project</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
